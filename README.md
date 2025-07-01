@@ -12,7 +12,7 @@ This project uses machine learning to predict whether a patient will be readmitt
 ## 📁 Project Files
 
 - `hospitaldata.csv` – Raw data set
-- `EDA.ipynb` – Explore data distributions, correlations, and key patterns.
+- `project.ipynb` – complete project code
 
 - `README.md` – Project documentation.
 
